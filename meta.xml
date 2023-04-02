@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+	<name>MarioCube Downloader</name>
+	<version>0.0.1</version>
+	<release_date></release_date>
+	<coder>ItzSwirlz</coder>
+	<short_description>still a wip, don't use</short_description>
+	<long_description>it will download mariocube files
+</long_description>
+<ahb_access/>
+</app>
