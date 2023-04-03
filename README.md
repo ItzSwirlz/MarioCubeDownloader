@@ -21,7 +21,7 @@ FIXME: actually make this better, but assuming you have devkitpro and devkitppc 
 # FAQ
 
 ## Is the MarioCube team okay with this?
-I need to ask them. (4/2/2023)
+Yes! (4/3/2023)
 
 ## What is the point of this?
 My Wii is downstairs in the basement with my Roku, and my computer is on the second floor of my house. It would be nice to just have automatic downloading of things.
